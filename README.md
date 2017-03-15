@@ -29,5 +29,7 @@ Pull requests are very welcome :).
 
 ### Sources
 
+- [sketch.expo.io](https://sketch.expo.io)
+- [Expo's blog post](https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2#.halex3xf5)
 - [Hacker News's thread](https://news.ycombinator.com/item?id=13868885)
 - [Reddit's r/reactnative post](https://www.reddit.com/r/reactnative/comments/5zefu5/sketch_a_playground_for_react_native/)
