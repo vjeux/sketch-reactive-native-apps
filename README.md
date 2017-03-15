@@ -1,12 +1,19 @@
 # sketch-reactive-native-apps
 
-List of react native apps on https://sketch.expo.io
+List of react native apps on [sketch.expo.io](https://sketch.expo.io)
+
+Shortest Hello World (232 chars):
+
+```es6
+import React,{Component} from 'react'; import r from 'react-native';export default class A extends Component{render(){return<r.View style={{flex:1,justifyContent:'center',alignItems:'center'}}><r.Text>Hello World</r.Text></r.View>}}
+```
 
 ### Hello World
 
 - [Sketch.expo.io's Hello World](https://sketch.expo.io/rkb6V5Ise)
 - [React Native's Hello World](https://sketch.expo.io/SyGmH9Ise)
 - [Simplest Hello World](https://sketch.expo.io/Skvv85Usx)
+- [Shortest Hellow World](https://sketch.expo.io/BkRETrvil)
 
 ### Components
 
