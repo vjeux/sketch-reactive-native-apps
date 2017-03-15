@@ -2,10 +2,10 @@
 
 List of react native apps on [sketch.expo.io](https://sketch.expo.io)
 
-Shortest Hello World (163 chars):
+[Shortest valid app](https://sketch.expo.io/HJvuX8Pog) (123 chars):
 
 ```es6
-import React,{Component as c}from'react';import r from'react-native';export default class A extends c{render=()=><r.Text style={{padding:99}}>Hello World</r.Text>}
+import React,{Component as c}from'react';import r from'react-native';export default class A extends c{render=()=><r.Text/>}
 ```
 
 ### Hello World
