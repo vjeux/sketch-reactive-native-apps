@@ -7,3 +7,5 @@ List of react native apps on https://sketch.expo.io
 - [OpenGL animated gradient](https://sketch.expo.io/SJaCWirsg) by [nikki93](https://news.ycombinator.com/user?id=nikki93) ([source](https://news.ycombinator.com/item?id=13872166))
 - [Game of life with SVG](https://sketch.expo.io/H1Z4WGIix) by [t1amat](https://news.ycombinator.com/user?id=t1amat) ([source](https://news.ycombinator.com/item?id=13872968))
 - [Game of life with REGL](https://sketch.expo.io/HkjUrfIje) by [t1amat](https://news.ycombinator.com/user?id=t1amat) ([source](https://news.ycombinator.com/item?id=13872968))
+- [Animated heart](https://sketch.expo.io/HyobXP7oe) by [jesseruder](https://news.ycombinator.com/user?id=jesseruder) ([source](https://news.ycombinator.com/item?id=13869047))
+- [Eva with SVG](https://sketch.expo.io/H1ucC8Xsg) by [jesseruder](https://news.ycombinator.com/user?id=jesseruder) ([source](https://news.ycombinator.com/item?id=13869047))
